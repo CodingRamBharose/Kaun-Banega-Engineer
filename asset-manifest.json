@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Kaun-Banega-Engineer/static/css/main.0822e626.css",
+    "main.js": "/Kaun-Banega-Engineer/static/js/main.5766882c.js",
+    "static/js/787.9e90ff23.chunk.js": "/Kaun-Banega-Engineer/static/js/787.9e90ff23.chunk.js",
+    "static/media/background.jpg": "/Kaun-Banega-Engineer/static/media/background.c137ccd722d64133b4df.jpg",
+    "index.html": "/Kaun-Banega-Engineer/index.html",
+    "main.0822e626.css.map": "/Kaun-Banega-Engineer/static/css/main.0822e626.css.map",
+    "main.5766882c.js.map": "/Kaun-Banega-Engineer/static/js/main.5766882c.js.map",
+    "787.9e90ff23.chunk.js.map": "/Kaun-Banega-Engineer/static/js/787.9e90ff23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0822e626.css",
+    "static/js/main.5766882c.js"
+  ]
+}
