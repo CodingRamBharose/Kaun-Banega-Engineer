@@ -31,6 +31,7 @@ function Questionanswer({ data, settimeOut, questionNumber, setquestionNumber })
   
   return (
     <>
+    
       <div className="question">
         {question?.question}
       </div>

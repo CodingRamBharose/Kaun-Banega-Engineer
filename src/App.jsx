@@ -4,7 +4,6 @@ import Questionanswer from './component/Questionanswer';
 import QuizOver from './component/QuizOver';
 import Timer from './component/Timer';
 const data= require('./component/Questions.json')
-// import Start from './component/Start';
 
 
 
