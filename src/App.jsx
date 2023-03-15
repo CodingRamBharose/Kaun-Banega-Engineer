@@ -6,7 +6,6 @@ import Timer from './component/Timer';
 const data= require('./component/Questions.json')
 
 
-
 function App() {
   const [questionNumber, setquestionNumber] = useState(1);
   const [timeOut, settimeOut] = useState(false);

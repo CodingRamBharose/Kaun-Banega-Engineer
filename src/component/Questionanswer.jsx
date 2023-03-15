@@ -37,7 +37,7 @@ function Questionanswer({ data, settimeOut, questionNumber, setquestionNumber })
       </div>
       <div className="answer">
         {question?.answers.map((a)=>(
-          <div className={selectedAnswer===a ? className : "answers"} onClick={()=>(handleOnClick(a))}>{a.answer}</div>
+          <div className={selectedAnswer===a ? className : "answers"} onClick={()=>(handleOnClick(a))}>{a.answer} </div>
         ))}  
       </div>
     </>

@@ -146,3 +146,45 @@
 .QuizOver h1 span{
   color: rgb(212, 175, 55);
 }
+@media(max-width:700px){
+  .App{
+    flex-direction: column;
+  }
+  .firstContainer{
+    width: 100%;
+  }
+  .secondContainer{
+    width: 100%;
+    height: 100%;
+  }
+  .container{
+    margin-top: 20px;
+  }
+  .question{
+    font-size: 16px;
+    width: 90%;
+  }
+  .answers{
+    font-size: 15px;
+    margin: 5px;
+    width: 45%;
+  }
+  .moneylistitem{
+    padding: 2px;
+  }
+  #item2{
+    font-size: 15px;
+  }
+  #item1{
+    font-size: 19px;
+  }
+  .QuizOver{
+    align-items: center;
+  }
+  .QuizOver h2{
+    font-size: 22px;
+  }
+  .QuizOver h1{
+    font-size: 25px;
+  }
+}
